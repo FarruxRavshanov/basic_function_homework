@@ -5,6 +5,6 @@ def main(float):
     value = float
     return value
 
-float = 9.9
+float = 9.7
 b = main(float)
 print(b)
