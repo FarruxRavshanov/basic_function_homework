@@ -1,10 +1,7 @@
 # Create a function called main.
 
 # Return the value "Hello World"
-def main(name):
-    value = "Hello " + name
-    return value
+def main():
+    return "Hello World"
 
-name = "World"
-a = main(name)
-print(a)
+print(main())
