@@ -7,6 +7,4 @@ def main(a):
     value = -a
     return value
 
-a = -777
-e = main(a)
-print(e)
+print(main(-1))
