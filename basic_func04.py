@@ -2,9 +2,6 @@
 
 # Return the value integer type.
 def main(int):
-    value = int
-    return value
+    return 3
 
-int = 17
-a = main(int)
-print(a)
+print(main(int))
