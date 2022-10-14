@@ -1,10 +1,7 @@
 # Create a function called main.
 
 # Return the value str type.
-def main(str):
-    value = str
-    return value
+def main():
+    return "church"
 
-str = "church"
-c = main(str)
-print(c)
+print(main())
