@@ -1,10 +1,7 @@
 # Create a function called main.
 
 # Return the value float type.
-def main(float):
-    value = float
-    return value
+def main():
+    return 1.2
 
-float = 9.7
-b = main(float)
-print(b)
+print(main())
